@@ -6,3 +6,6 @@ Many of these programs were written by Thomas Okken, and hosted in an excellent 
 
 ## Converting to .raw
 If you want to package a program for the DM42, do it here: https://technical.swissmicros.com/decoders/dm42/
+
+## Installing
+Just plug in the DM42, mount as a USB disk, and drag these to the PROGRAMS folder.
