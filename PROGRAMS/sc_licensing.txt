@@ -1,4 +1,4 @@
-00 { 133-Byte Prgm }
+00 { SolCyber License }
 01 LBL "SCLC"
 02 INPUT "USERS"
 03 INPUT "EPS"
